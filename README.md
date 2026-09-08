@@ -18,7 +18,7 @@
 
 <img src="https://github-stats-extended.vercel.app/api?username=hazelissleepy&hide_border=true&theme=omni" />
 
-<img src="https://github-stats-extended.vercel.app/api/wakatime?username=5b16ade4-3372-40ff-864f-ea1457e472f2&langs_count=6&hide_border=true&theme=omni" />
+<img src="https://github-stats-extended.vercel.app/api/wakatime?username=5b16ade4-3372-40ff-864f-ea1457e472f2&hide_border=true&langs_count=6&theme=omni" />
 
 </div>
 
