@@ -4,7 +4,7 @@
 
 ### A sleepy developer from the US
 
-##### 17 year old Computer Science student • making silly things :P
+##### 18 year old Computer Science student • making silly things :P
 
 <br>
 
